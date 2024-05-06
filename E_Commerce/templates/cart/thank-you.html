@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+
+<!-- Thank You area start -->
+<div class="thank-you-area">
+    <div class="container">
+        <div class="row justify-content-center align-items-center">
+            <div class="col-md-8">
+                <div class="inner_complated">
+                    <div class="img_cmpted"><img src="{% static 'assets/img/tick-icon.png' %}" alt="" style="margin-left: 325px;height:300px;width:300px;"></div>
+                    <h5 class="dsc_cmpted text-center m-3">Thank you for ordering in our store. You will receive a confirmation
+                        email shortly.</h5>
+                    <div class="btn_cmpted text-center">
+                        <a class="tp-btn-h1 text-center" href="{% url 'product' %}">Continue Shopping</a>
+                    </div>
+                </div>
+                <div class="main_quickorder text-align-center">
+                    <h3 class="title text-center m-3">Call Us for Quick Order</h3>
+                    <div class="cntct typewriter-effect text-center"><span class="call_desk"><a href="tel:+01234567890" id="typewriter_num">01 234 567 890</a></span></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Thank You area end -->
+
+
+{% endblock %}
