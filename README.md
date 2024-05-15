@@ -19,3 +19,5 @@ Seamlessly transitioning from cart to checkout, DjangoMart simplifies the purcha
 
 **Razorpay Integration for Payment:**
 DjangoMart ensures secure and efficient payment processing through integration with Razorpay, a leading payment gateway. Users can complete transactions confidently, with options to pay using credit/debit cards, net banking, UPI, and other popular methods supported by Razorpay.
+
+![Screenshot 2024-05-15 204504](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/2dfbc855-3b74-4612-a348-12bd5a6a538b)
