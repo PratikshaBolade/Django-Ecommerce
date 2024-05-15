@@ -20,5 +20,12 @@ Seamlessly transitioning from cart to checkout, DjangoMart simplifies the purcha
 **Razorpay Integration for Payment:**
 DjangoMart ensures secure and efficient payment processing through integration with Razorpay, a leading payment gateway. Users can complete transactions confidently, with options to pay using credit/debit cards, net banking, UPI, and other popular methods supported by Razorpay.
 
-![Screenshot 2024-05-15 204504](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/2dfbc855-3b74-4612-a348-12bd5a6a538b)
-![Screenshot 2024-05-15 204910](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/f0613c3b-7bda-4808-9379-a6fb010ce1fa)
+![Banner Area](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/2dfbc855-3b74-4612-a348-12bd5a6a538b)
+![Top Deals Of The Day](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/f0613c3b-7bda-4808-9379-a6fb010ce1fa)
+![Product Page](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/69230ab4-c40f-4e66-ad0a-545265568a47)
+![Product Quick View](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/36f7d94b-77d0-42b5-a6da-994063066b33)
+![Product Detail Page](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/4f50dbc1-d5eb-4e8a-8286-85e970c9c86b)
+![Cart Page](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/2f2a8b39-2fb0-4f5b-a3f3-ca38b1fdd1b7)
+![Checkout Page](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/787af949-ee9e-45fb-9178-51c319773505)
+![Razorpay Payment Page](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/ef8a8d59-83e9-41ea-8bd6-3887a5c6abea)
+![Search Product Page](https://github.com/PratikshaBolade/Django-Ecommerce/assets/109852362/3f2810f9-5f3b-4a0d-85a2-491694c896ea)
